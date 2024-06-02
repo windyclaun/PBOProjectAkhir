@@ -14,6 +14,8 @@ public class Main {
         MainMenu frame = new MainMenu();
         frame.setVisible(true);
         frame.setLocationRelativeTo(null);
+
+        
     } 
     
 }
